@@ -1,0 +1,6 @@
+[submodule "shipa-js"]
+	path = shipa-js
+	url = https://github.com/Ulan-Ho/client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Ulan-Ho/server.git
